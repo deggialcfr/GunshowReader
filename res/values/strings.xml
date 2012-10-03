@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<string name="app_name">Gunshow Reader</string>
+<string name="app_bookmarks_label">Favorites</string>
+<string name="app_archive_label">Favorites</string>
+<string name="app_prefs_label">Preferences</string>
+<string name="aboutText">
+This is an unofficial reader for Gunshow Comic (http://gunshowcomic.com) created by KC Green.\nIf you have any comment or question, feel free to contact me at deggial.cfr@gmail.com 
+\n\n
+ This app is based on LectorBunsen made by Paulino Calderon.\n\n
+Comic Viewer\nThis project uses &quot;ComicViewer&quot; (https://github.com/tcoxon/ComicViewer) by tcoxon. \n\n
+Source Code and Resources\nYou can find the source code of this app on https://github.com/deggialcfr/GunshowReader under GPL license. Icon is by KCGreen.</string>
+</resources>
